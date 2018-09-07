@@ -1,4 +1,4 @@
-## openHAB 2 Add-ons maintained at Asvilabs 
+## openHAB 2 Add-ons maintained at Asvilabs for legacy customers
 
 This repository contains add-ons that are implemented using the new [Eclipse SmartHome APIs](https://www.eclipse.org/smarthome/documentation/development/bindings/how-to.html) of openHAB 2.
 
