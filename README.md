@@ -5,7 +5,7 @@ This repository contains add-ons that are implemented using the new [Eclipse Sma
 Note that all information about openHAB itself, the IDE setup and the contribution processes can be found in the [openhab-distro](https://github.com/openhab/openhab-distro) project, so please go there for any further details!
 
 ## Add-ons in other repositories
-Some add-ons (e.g. specific bindings such as [Z-Wave](https://github.com/openhab/org.openhab.binding.zwave)) are maintained in separate repositories in order to improve their management. In order to contribute to these bindings, you should follow the following steps -:
+Some add-ons are maintained in separate repositories in order to improve their management. In order to contribute to these bindings, you should follow the following steps -:
 
 1. Fork the repository on Github
 2. Clone your repository to your local computer as described in the [Github tutorial](https://help.github.com/articles/cloning-a-repository/)
